@@ -1,0 +1,30 @@
+﻿# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Tests and tools
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+# Logs
+*.log
+logs/
+# Local project structure previews
+project_structure.txt
+structure_preview.txt

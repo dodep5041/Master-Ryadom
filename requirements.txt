@@ -1,0 +1,4 @@
+﻿aiogram>=3.7,<4
+SQLAlchemy>=2,<3
+python-dotenv>=1,<2
+pytest>=8,<10
